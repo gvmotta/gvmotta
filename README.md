@@ -30,6 +30,6 @@ Meu inglês é avançado.
 
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/dio-lab-open-source)
-[![Freelancer Web Development](https://github-readme-stats.vercel.app/api/pin/?username=gvmotta&repo=washoku&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/Washoku)
+[![Freelancer Web Development](https://github-readme-stats.vercel.app/api/pin/?username=gvmotta&repo=washokuWebSite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/WashokuWebSite)
 
 
