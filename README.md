@@ -1,10 +1,7 @@
 
 # Gustavo Motta Cardoso Silva
-Me chamo Gustavo Motta, tenho 19 anos e sou um estudante de Análise e Desenvolvimento de Sistemas na Fatec Jundiaí. Além disso, sou formado em Técnico em Desenvolvimento Web e Logística pela Etec Jundiaí.
-
-Faço parte da Empresa Júnior Neotech, uma equipe composta por alunos e professores, dedicada à criação de projetos para empresas, enriquecendo o currículo e experiência de todos os envolvidos. Atualmente, estou desempenhando o papel de estagiário de Suporte Técnico na Runtec Brasil.
-
-Meu nível de proficiência em inglês é avançado, o que me permite atuar de forma eficaz em um ambiente globalizado.
+Olá, seja bem vindo ao meu GitHub. 
+Fique a vontade para entrar em contato comigo!
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gustavomottadeveloper)
