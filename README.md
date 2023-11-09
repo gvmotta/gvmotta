@@ -26,7 +26,7 @@ Fique a vontade para entrar em contato comigo!
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gvmotta&layout=compact&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF)
 
 ### Meus Principais Projetos
-[![Pokedex](https://github.com/gvmotta/js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)]([https://github.com/gvmotta/dio-lab-open-source](https://github.com/gvmotta/js-developer-pokedex)
 [![Freelancer Web Development](https://github-readme-stats.vercel.app/api/pin/?username=gvmotta&repo=washokuWebSite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/WashokuWebSite)
+[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=gvmotta&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/js-developer-pokedex)
 
 
