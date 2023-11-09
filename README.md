@@ -1,6 +1,7 @@
 
 # Gustavo Motta Cardoso Silva
 Olá, seja bem vindo ao meu GitHub. 
+
 Fique a vontade para entrar em contato comigo!
 
 ### Conecte-se comigo
@@ -24,8 +25,8 @@ Fique a vontade para entrar em contato comigo!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvmotta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gvmotta&layout=compact&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/dio-lab-open-source)
+### Meus Principais Projetos
+[![Pokedex](https://github.com/gvmotta/js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)]([https://github.com/gvmotta/dio-lab-open-source](https://github.com/gvmotta/js-developer-pokedex))
 [![Freelancer Web Development](https://github-readme-stats.vercel.app/api/pin/?username=gvmotta&repo=washokuWebSite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/WashokuWebSite)
 
 
