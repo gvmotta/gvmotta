@@ -1,12 +1,12 @@
 
 <h1 align="center">
-  Hello World, I'm Gustavo Motta 👋
+  Hello, World! I'm Gustavo Motta 👋
 </h1>
 <div align="center">
 <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
 </div>
 <h3 align="center">
-    • Front-end Developer • Tech Student
+    • Software Developer • Tech Student
 </h3>
 
 ### Conecte-se comigo
