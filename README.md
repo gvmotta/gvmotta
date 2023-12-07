@@ -43,7 +43,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)&nbsp;
 
 
-
+![Snake animation](https://github.com/gvmotta/gvmotta/blob/output/github-contribution-grid-snake.svg)
 
 
 ### GitHub Stats
