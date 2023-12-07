@@ -29,7 +29,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)&nbsp;
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=DD0031)&nbsp;
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=5ED3F3)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 
 ### ⚡ &nbsp;Database
