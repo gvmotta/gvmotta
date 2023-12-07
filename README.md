@@ -42,10 +42,6 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)&nbsp;
 
-
-![Snake animation](https://github.com/gvmotta/gvmotta/blob/output/github-contribution-grid-snake.svg)
-
-
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvmotta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gvmotta&layout=compact&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF)
