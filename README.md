@@ -9,6 +9,8 @@
     • Software Developer • Tech Student
 </h3>
 
+
+
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gustavomottadeveloper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gvmotta/)
@@ -49,5 +51,8 @@
 ### Meus Principais Projetos
 [![Freelancer Web Development](https://github-readme-stats.vercel.app/api/pin/?username=gvmotta&repo=washokuWebSite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/WashokuWebSite)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=gvmotta&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/gvmotta/js-developer-pokedex)
+
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d890676e6d9395457488f6?variant=dark&roadmaps=react" alt="roadmap.sh"/></a>
 
 
